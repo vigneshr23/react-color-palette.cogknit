@@ -1,6 +1,8 @@
 {
   "name": "color-pallete",
   "version": "0.1.0",
+  "author": "Vignesh",
+  "address": "https://www.linkedin.com/in/vigneshrsharma/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
